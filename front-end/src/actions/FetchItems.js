@@ -11,3 +11,18 @@ export default function grabbingItems(){
 	}
 }
 
+
+
+// import $ from 'jquery'
+
+// const databaseUrl = 'http://pauldkang.com:3000'
+
+// export default function grabbingItems(){
+// 	const thePromise = $.getJSON(`${databaseUrl}/`)
+// 	// console.log(thePromise)
+// 	return{
+// 		type: "GET_ITEM",
+// 		payload: thePromise
+// 	}
+// }
+
